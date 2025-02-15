@@ -32,7 +32,7 @@ This repository serves as a space to showcase my skills, share projects, and tra
 * Contact
 
 # Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects briefly describing the technology stack used.
 
 Title:
 
