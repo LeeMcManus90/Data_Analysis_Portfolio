@@ -44,4 +44,4 @@ University of York, UK, BSc, Chemistry, 2010 - 2014
 
 [linkedin]: https://linkedin.com/in/lee-mcmanus/
 
-* Email: leemmcmanus90@outlook.com
+Email: leemmcmanus90@outlook.com
